@@ -1,0 +1,106 @@
+{
+  "title": "Mario Kart DS - Retro Tracks",
+  "attempt_count": 0,
+  "start_delay":"3.000000",
+  "splits": [
+    {
+      "title": "SNES Mario Circuit 1",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "N64 Moo Moo Farm",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GBA Peach Circuit",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GCN Luigi Circuit",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "SNES Donut Plains 1",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "N64 Frappe Snowland",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GBA Bowser Castle 2",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GCN Baby Park",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "SNES Koopa Beach 2",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "N64 Choco Mountain",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GBA Luigi Circuit",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GCN Mushroom Bridge",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "SNES Choco Island 2",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "N64 Banshee Boardwalk",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "GBA Sky Garden",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Yoshi Circuit",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    }
+  ],
+  "theme": "live-split",
+  "width": 640,
+  "height": 800
+}
