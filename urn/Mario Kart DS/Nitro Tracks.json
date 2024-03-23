@@ -1,0 +1,106 @@
+{
+  "title": "Mario Kart DS - Nitro Tracks",
+  "attempt_count": 0,
+  "start_delay":"0.000000",
+  "splits": [
+    {
+      "title": "Figure-8 Circuit",
+      "time": "1:48.385389",
+      "best_time": "1:48.385389",
+      "best_segment": "1:48.385389"
+    },
+    {
+      "title": "Yoshi Falls",
+      "time": "3:01.640804",
+      "best_time": "3:01.640804",
+      "best_segment": "1:13.255415"
+    },
+    {
+      "title": "Cheep Cheep Beach",
+      "time": "5:10.367104",
+      "best_time": "5:10.367104",
+      "best_segment": "2:08.726300"
+    },
+    {
+      "title": "Luigi's Mansion",
+      "time": "7:29.385486",
+      "best_time": "7:29.385486",
+      "best_segment": "2:19.018382"
+    },
+    {
+      "title": "Desert Hills",
+      "time": "9:29.408805",
+      "best_time": "9:29.408805",
+      "best_segment": "2:00.023319"
+    },
+    {
+      "title": "Delfino Square",
+      "time": "11:51.767003",
+      "best_time": "11:51.767003",
+      "best_segment": "2:22.358198"
+    },
+    {
+      "title": "Waluigi Pinball",
+      "time": "14:32.406279",
+      "best_time": "14:28.103155",
+      "best_segment": "2:36.336152"
+    },
+    {
+      "title": "Shroom Ridge",
+      "time": "16:52.900567",
+      "best_time": "16:52.900567",
+      "best_segment": "2:20.494288"
+    },
+    {
+      "title": "DK Pass",
+      "time": "19:30.574039",
+      "best_time": "19:28.632713",
+      "best_segment": "2:35.732146"
+    },
+    {
+      "title": "Tick-Tock Clock",
+      "time": "21:44.954734",
+      "best_time": "21:44.954734",
+      "best_segment": "2:14.380695"
+    },
+    {
+      "title": "Mario Circuit",
+      "time": "24:01.247505",
+      "best_time": "24:01.247505",
+      "best_segment": "2:16.292771"
+    },
+    {
+      "title": "Airship Fortress",
+      "time": "26:28.395078",
+      "best_time": "26:28.395078",
+      "best_segment": "2:27.147573"
+    },
+    {
+      "title": "Wario Stadium",
+      "time": "29:07.920238",
+      "best_time": "29:07.920238",
+      "best_segment": "2:39.525160"
+    },
+    {
+      "title": "Peach Gardens",
+      "time": "31:19.101985",
+      "best_time": "31:19.101985",
+      "best_segment": "2:11.181747"
+    },
+    {
+      "title": "Bowser Castle",
+      "time": "34:07.630124",
+      "best_time": "34:07.630124",
+      "best_segment": "2:48.528139"
+    },
+    {
+      "title": "Rainbow Road",
+      "time": "37:11.516651",
+      "best_time": "37:11.516651",
+      "best_segment": "3:03.886527"
+    }
+  ],
+  "theme": "live-split2",
+  "width": 640,
+  "height": 800
+}

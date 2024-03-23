@@ -1,0 +1,6 @@
+((title     "Mario Kart DS")
+ (category  "Nitro Tracks")
+ (attempts  0)
+ (completed 0)
+ (split_names ("Figure-8 Circuit" "Yoshi Falls" "Cheep Cheep Beach" "Luigi's Mansion" "Desert Hills" "Delfino Square" "Waluigi Pinball" "Shroom Ridge" "DK Pass" "Tick-Tock Clock" "Mario Circuit" "Airship Fortress" "Wario Stadium" "Peach Gardens" "Bowser Castle" "Rainbow Road"))
+ )
