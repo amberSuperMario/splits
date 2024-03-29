@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveFile>
+  <Times TotalRunTime="PT43M6.9901402S">
+    <Track0 PBTime="PT1M59.7179156S" GoldTime="PT1M59.7179156S" />
+    <Track1 PBTime="PT1M56.4516721S" GoldTime="PT1M56.4516721S" />
+    <Track2 PBTime="PT1M57.9959652S" GoldTime="PT1M57.9959652S" />
+    <Track3 PBTime="PT2M34.8159064S" GoldTime="PT2M34.8159064S" />
+    <Track4 PBTime="PT2M16.9969596S" GoldTime="PT2M16.9969596S" />
+    <Track5 PBTime="PT2M10.7945943S" GoldTime="PT2M10.7945943S" />
+    <Track6 PBTime="PT2M44.5184455S" GoldTime="PT2M44.5184455S" />
+    <Track7 PBTime="PT2M44.1312777S" GoldTime="PT2M44.1312777S" />
+    <Track8 PBTime="PT2M13.2243006S" GoldTime="PT2M13.2243006S" />
+    <Track9 PBTime="PT2M14.7929147S" GoldTime="PT2M14.7929147S" />
+    <Track10 PBTime="PT2M50.6634229S" GoldTime="PT2M50.6634229S" />
+    <Track11 PBTime="PT2M47.5808413S" GoldTime="PT2M47.5808413S" />
+    <Track12 PBTime="PT3M32.6078777S" GoldTime="PT3M32.6078777S" />
+    <Track13 PBTime="PT3M0.7599007S" GoldTime="PT3M0.7599007S" />
+    <Track14 PBTime="PT3M57.4019367S" GoldTime="PT3M57.4019367S" />
+    <Track15 PBTime="PT4M4.536182S" GoldTime="PT4M4.536182S" />
+  </Times>
+  <Settings>
+    <Hotkeys>
+      <Split Primary="32" />
+      <Reset Primary="8" />
+      <SkipSplit Primary="34" />
+      <UndoSelection Primary="33" />
+    </Hotkeys>
+    <SplitDelay DelayInMs="0" />
+    <useBestPosTime Enabled="false" />
+    <isInTintedMode Enabled="true" />
+    <useGlobalHotkeys Enabled="false" />
+    <isInChromaMode Enabled="false" />
+  </Settings>
+  <Miscellaneous>
+    <RunCounter startedRunCount="2" completedRunCount="1" />
+  </Miscellaneous>
+</SaveFile>
